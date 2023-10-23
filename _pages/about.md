@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Marc Klinger's personal webpage!
+Meet me at HEPRO 8 in Paris!
