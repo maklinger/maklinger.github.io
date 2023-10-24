@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Astroparticle Physics, DESY Zeuthen, with Walter Winter & Andrew Taylor (since 01/2020)
+* M.Sc. in Physics with focus: Astroparticle Physics and Cosmology at
+* B.Sc in Physics
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
 Work experience
 ======
