@@ -29,6 +29,7 @@ Education
 
 Work experience
 ======
+
 |05/2017-02/2019 | Assistant Scientist at EnEx RANGE Project at RWTH Aachen |
 |:--- |:---|
 ||Focus: Experimental lab work and data analysis<br>Glacier expedition for project validation (08/2017)|
@@ -37,6 +38,7 @@ Work experience
 |02/2017-03/2017 | Site visit of Pierre-Auger-Observatory, Argentina |
 |:--- |:---|
 ||Participation in maintenance, shifts, collaboration meeting and public outreach work at the local visitor’s facility|
+
 
 |09/2016–12/2016 | Scientific stay at the HAWC Observatory, Mexico |
 |:--- |:---|
@@ -58,21 +60,4 @@ Skills
   * LaTeX, Microsoft Office (Excel, Word, Powerpoint), Markdown
 * Languages: German, English, Spanish, Dutch
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
+
