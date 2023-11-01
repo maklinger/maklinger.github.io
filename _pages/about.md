@@ -13,3 +13,5 @@ I am a PhD student at DESY Zeuthen, close to Berlin. My research interests curre
 Recently, I could give a short summary talk about my current work at the wonderful [HEPRO 8](https://hepro8.sciencesconf.org/) conference in Paris! [See here my slides](https://hepro8.sciencesconf.org/data/program/Klinger.pdf).
 
 I am currently looking for Postdoc positions - please get in touch if you're interested!
+
+Exciting: I am involved in the publication of the [AM³ code](https://gitlab.desy.de/am3/am3), which I expect to become public in the next few weeks. If you are interested in lepto-hadronic radiation modelling - stay tuned!
