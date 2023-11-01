@@ -29,7 +29,7 @@ Focus: Time-Dependent Radiation Modeling of Gamma-Ray Burst Afterglows<br>
 ## 2013-2016: B.Sc. in Physics 
 
 RWTH Aachen University<br>
-Thesis: Development of a measurement setup to compare acoustic emitters for the EnEx-RANGE project<br>
+[Thesis: Development of a measurement setup to compare acoustic emitters for the EnEx-RANGE project (in German)](https://github.com/maklinger/maklinger.github.io/blob/master/files/Bachelor_EnEx_Klinger_Marc_2016_compressed.pdf)<br>
 *Supervisor: Christopher Wiebusch*
 
 
