@@ -50,10 +50,6 @@ Participation in maintenance, shifts, collaboration meeting and public outreach 
 Studies on Radio Galaxies at the National Autonomous University of Mexico (UNAM)<br>
 Participation in the HAWC Collaboration Meeting and the Workshop on a wide field-of-view Southern Hemisphere TeV gamma ray observatory
 
-# Awards
-
-* Financial Performance Bonus for Active and Excellent Engagement in Research Discussions (DESY)
-
 # Skills
 
 * Scientific skills
