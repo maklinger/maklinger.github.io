@@ -12,9 +12,8 @@ redirect_from:
 Education
 ======
 
-|From 01/2020 | PhD in Theoretical Astroparticle Physics|
-|:------ |:-------|
-||DESY Zeuthen within Helmholtz Weizmann Research School on Multimessenger Astronomy <br>Focus: Time-Dependent Radiation Modeling of Gamma-Ray Burst Afterglows<br>*Supervisors: Walter Winter, Andrew Taylor, Eli Waxman*|
+#### **From 01/2020: PhD in Theoretical Astroparticle Physics**
+DESY Zeuthen within Helmholtz Weizmann Research School on Multimessenger Astronomy <br>Focus: Time-Dependent Radiation Modeling of Gamma-Ray Burst Afterglows<br>*Supervisors: Walter Winter, Andrew Taylor, Eli Waxman*|
 
 
 |2017-2019 | M.Sc. in Physics with focus: Astroparticle Physics and Cosmology|
