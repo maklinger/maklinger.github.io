@@ -6,6 +6,10 @@ redirect_from:
   - /resume
 ---
 
+... focuses on **high-energy astrophysics**, in particular **non-thermal particle acceleration** in **fast outflows** and the subsequent energy dissipation ("**radiation modeling**") into **multi-messenger signatures**, including **cosmic rays, photons and neutrinos**. I have experience with two promising candidate sites: **relativistic shocks in gamma-ray burst (GRB) afterglows** and **magnetic reconnection in blazar jets**.
+
+I believe that the **combination of observations** (in particular their limitations) **and theory** (analytical and numerical modeling) provides the best environment for progress in understanding.
+
 ## Gamma-ray burst (GRB) afterglows
 
 ### Flat energy spectra up to the highest energies - Lepto-hadronic scenarios
@@ -18,9 +22,14 @@ By far the brightest GRB detected so far - and behind the Galactic plane. This c
 
 ![Fit to GRB221009A's early afterglow](/files/GRB221009A_Afterglow_fit.png)
 
-### Counts-level fits to GRB 190114C
+### Counts-level fits to GRB 190114C -[arXiv:2206.11148](https://arxiv.org/abs/2206.11148)
+
+After the detection of GRB 190114C with the MAGIC telescopes at TeV energies an ongoing debate about the origin of this radiation has started. The contemporaneous *Fermi*-LAT data (5 and 6 photons) visually suggested a slightly lower flux compared to the measurements at lower energies, which was interpreted as a confirmation of the two-component synchrotron self-Compton (SSC) model. In order to answer the question of preference for a new component, we compared the SSC model at the counts-level to a single-component model with only one extendend synchrotron component. We find no preference from the data for either of the two models - and no relevance of the *Fermi*-LAT data. See below the envelopes of the two models - you also hardly see any difference by eye!
+
+![GRB190114C best fit SEDs](/files/GRB190114C_SED_comparison.png)
 
 ## Radiation modeling with AM³
+
 
 
 ## Magnetic-reconnection driven blazar variability
