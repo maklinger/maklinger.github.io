@@ -11,7 +11,7 @@ redirect_from:
 ![ICD poster](https://maklinger.github.io/files/outreach/ICD_picture.png)
 
 Every year in November at the ICD, high-school classes conduct a variety of experiments on cosmic rays! In order to introduce the students to the academic work-style, DESY organizes a video conference, where they can present their results.
-Since 2021 I have been joining the Gymnasium Villa Elisabeth in Wildau, close to DESY Zeuthen, during that day. I supported the students with the experiments, the data analysis, the presentation and gave an outreach talk. See below the slides:
+Since 2021 I have been joining the Gymnasium Villa Elisabeth in Wildau, close to DESY Zeuthen, during that day. I supported the students with the experiments, the data analysis, the presentation and gave an outreach talk. See below the slides (in German):
 
 * [ICD 2021/2022](https://maklinger.github.io/files/outreach/ICD_2021_2022_2023_Klinger_Wildau.pdf)
 
