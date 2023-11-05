@@ -8,4 +8,6 @@ date: 2023-10-24
 location: "Paris, France"
 ---
 
-[Link to slides](https://maklinger.github.io/files/presentations/HEPRO23_VHEGRBafterglows_Klinger.pdf). [Link to HEPRO8](https://hepro8.sciencesconf.org/).conference.
+[Link to slides](https://maklinger.github.io/files/presentations/HEPRO23_VHEGRBafterglows_Klinger.pdf). [Link to HEPRO8](https://hepro8.sciencesconf.org/).
+
+
