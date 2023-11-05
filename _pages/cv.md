@@ -22,14 +22,14 @@ Focus: Time-Dependent Radiation Modeling of Gamma-Ray Burst Afterglows<br>
 
 RWTH Aachen University<br>
 Focus: Time-Dependent Radiation Modeling of Gamma-Ray Burst Afterglows<br>
-[Thesis: Developing a Magnetic Reconnection Model to Interpret Blazar Variability as Measured with the FACT Telescope](https://maklinger.github.io/files/MasterThesis_MarcKlinger.pdf)<br>
+[Thesis: Developing a Magnetic Reconnection Model to Interpret Blazar Variability as Measured with the FACT Telescope](https://maklinger.github.io/files/theses/MasterThesis_MarcKlinger.pdf)<br>
 *Supervisors: Philipp Mertsch, Thomas Bretz*
 
 
 ## 2013-2016: B.Sc. in Physics 
 
 RWTH Aachen University<br>
-[Thesis: Development of a measurement setup to compare acoustic emitters for the EnEx-RANGE project (in German)](https://maklinger.github.io/files/Bachelor_EnEx_Klinger_Marc_2016_compressed.pdf)<br>
+[Thesis: Development of a measurement setup to compare acoustic emitters for the EnEx-RANGE project (in German)](https://maklinger.github.io/files/theses/Bachelor_EnEx_Klinger_Marc_2016_compressed.pdf)<br>
 *Supervisor: Christopher Wiebusch*
 
 
