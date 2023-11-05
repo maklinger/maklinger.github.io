@@ -21,6 +21,6 @@ Since 2021 I have been joining the Gymnasium Villa Elisabeth in Wildau, close to
 
 ![AIS³ in Berlin](https://maklinger.github.io/files/outreach/AIS3_Berlin.JPG)
 
-Experiencing particle showers induced by astrophysical neutrinos audio-visually and in 3D - that is one of the features of AIS³. Under the lead of Tim Otto Roth we developed in this project a model of the [IceCube](https://icecube.wisc.edu/) detector, consisting of 444 loudspeakers and light emitters on 37 strings similar to the original detector. It's size of multiple meters in height and diameter allows you to walk through and lay in the detector - a fantastic experience!
+Experiencing particle showers induced by astrophysical neutrinos audio-visually and in 3D - that is one of the features of [AIS³](https://www.imachination.net/ais3/index_d.php). Under the lead of Tim Otto Roth we developed in this project a model of the [IceCube](https://icecube.wisc.edu/) detector, consisting of 444 loudspeakers and light emitters on 37 strings similar to the original detector. It's size of multiple meters in height and diameter allows you to walk through and lay in the detector - a fantastic experience!
 I was involved in the actual construction and debugging of the hardware, and then also the exhibitions in Berlin, Munich and Aachen, where I gave guided tours to visitors and high-school classes. 
 Besides the scientific visualization AIS³ is also a giant instrument allowing for an entirely new sound experience. This brush with art was a very refreshing experience for me!
