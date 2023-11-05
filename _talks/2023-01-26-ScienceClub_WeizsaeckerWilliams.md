@@ -4,7 +4,7 @@ collection: talks
 type: "Talk (online)"
 permalink: /talks/2023-01-26-ScienceClub_WeizsaeckerWilliams
 venue: "Science Club"
-date: 2023-10-24
+date: 2023-01-26
 location: "Multimessenger School"
 ---
 

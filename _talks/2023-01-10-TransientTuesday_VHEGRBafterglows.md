@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/2023-01-10-TransientTuesday_VHEGRBafterglows
 venue: "Transient Tuesday, NBI"
-date: 2023-10-24
+date: 2023-01-10
 location: "Copenhagen, Denmark"
 ---
 
