@@ -50,6 +50,16 @@ Participation in maintenance, shifts, collaboration meeting and public outreach 
 Studies on Radio Galaxies at the National Autonomous University of Mexico (UNAM)<br>
 Participation in the HAWC Collaboration Meeting and the Workshop on a wide field-of-view Southern Hemisphere TeV gamma ray observatory
 
+# Teaching experience
+
+* 2022, 2023 : DESY Summer student program
+  * Supervision of 3 summer student projects on GRB afterglow modeling
+
+* 10/2020 - 02/2021: Mathematical Tools for a Physicist 
+  * Humboldt University, Berlin
+  * Preparation and discussion of weekly exercise sheets
+
+
 # Skills
 
 * Scientific skills
