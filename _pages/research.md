@@ -26,7 +26,7 @@ By far the brightest GRB detected so far - and behind the Galactic plane. This c
 
 ---
 
-### Counts-level fits to GRB 190114C -[arXiv:2206.11148](https://arxiv.org/abs/2206.11148)
+### Counts-level fits to GRB 190114C - [arXiv:2206.11148](https://arxiv.org/abs/2206.11148)
 
 After the detection of GRB 190114C with the MAGIC telescopes at TeV energies an ongoing debate about the origin of this radiation has started. The contemporaneous *Fermi*-LAT data (5 and 6 photons) visually suggested a slightly lower flux compared to the measurements at lower energies, which was interpreted as a confirmation of the two-component synchrotron self-Compton (SSC) model. In order to answer the question of preference for a new component, we compared the SSC model at the counts-level (using [3ML](https://threeml.readthedocs.io/en/stable/index.html)) to a single-component model with only one extendend synchrotron component. We find no preference from the data for either of the two models - and no relevance of the *Fermi*-LAT data. See below the envelopes of the two models - you also hardly see any difference by eye!
 
