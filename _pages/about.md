@@ -6,12 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  actions:
-    - label: "CV"
-      url: "/cv"
 ---
 
+<!-- # [My short CV](https://maklinger.github.io/files/CV-Marc_Klinger_11-2023.pdf) -->
+<a href="https://maklinger.github.io/files/CV-Marc_Klinger_11-2023.pdf" style="color: #9e0606; text-decoration: underline;font-size:150%;"><b>PDF with short CV</b></a>
 <!-- <button name="button" onclick="https://maklinger.github.io/files/CV-Marc_Klinger_11-2023.pdf">My short CV</button> -->
 
 I am a PhD student at DESY Zeuthen, close to Berlin. My research interests currently focus on the afterglows of Gamma-Ray Bursts (GRBs), in particular the ones originating from the collapse of a massive, rotating star at the end of its live. I really enjoy the connection between observations and theory in astrophysics!
