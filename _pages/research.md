@@ -34,9 +34,9 @@ After the detection of GRB 190114C with the MAGIC telescopes at TeV energies an 
 
 ---
 
-## Radiation modeling with [AM³](https://gitlab.desy.de/am3/am3)
+## Radiation modeling with [AM³](https://gitlab.desy.de/am3/am3) - [arXiv:2312.13371](https://arxiv.org/abs/2312.13371)
 
-Started already earlier within the [NEUCOS](https://www-zeuthen.desy.de/~wwinter/) project at DESY Zeuthen, we are currently in the final phase of making the radiation modeling code AM³ (Astrophysical Multi-Messenger Modeling) public. It solves the coupled transport equations for for protons, electrons, photons, pions, muons and neutrinos and has all the relevant radiaton processes/interactions (Syn, IC, pair-prod., p𝛾, pp, Bethe-Heitler, decays,...) implemented. Two particular features are its speed optimisation options and the tracking of all the different components in the particle spectra. It is originally written in C++, but has a convenient interface to python. Stay tuned for the public version!
+Started already earlier within the [NEUCOS](https://www-zeuthen.desy.de/~wwinter/) project at DESY Zeuthen, we finally finished making the radiation modeling code AM³ (Astrophysical Multi-Messenger Modeling) public. It solves the coupled transport equations for for protons, electrons, photons, pions, muons and neutrinos and has all the relevant radiaton processes/interactions (Syn, IC, pair-prod., p𝛾, pp, Bethe-Heitler, decays,...) implemented. Two particular features are its speed (including optimisation options) and the tracking of all the different components in the particle spectra. It is originally written in C++, but has a convenient interface to python. [Check it out!](https://gitlab.desy.de/am3/am3)
 
 ---
 

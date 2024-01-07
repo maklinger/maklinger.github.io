@@ -20,4 +20,4 @@ Recently, I could give a short summary talk about my current work at the wonderf
 
 I am currently looking for Postdoc positions - please get in touch if you're interested!
 
-Exciting: I am involved in the publication of the [AM³ code](https://gitlab.desy.de/am3/am3), which I expect to become public in the next few weeks. If you are interested in lepto-hadronic radiation modelling - stay tuned!
+Exciting: I am involved in the [publication](https://arxiv.org/abs/2312.13371) of the [AM³ code](https://gitlab.desy.de/am3/am3), which is now public! If you are interested in lepto-hadronic radiation modelling - check it out!
