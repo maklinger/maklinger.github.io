@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="https://maklinger.github.io/files/CV-Marc_Klinger_01-2024.pdf" style="color: #9e0606; text-decoration: underline;font-size:150%;"><b>PDF with short CV</b></a>
 # Education
 
 ## **From 01/2020: PhD in Theoretical Astroparticle Physics**
