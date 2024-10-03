@@ -1,5 +1,5 @@
 ---
-title: "News from AM³ (and aplication to GRB Afterglows)"
+title: "News from AM³ (and application to GRB Afterglows)"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/2024-02-21-ParisNumMMModeling_AM3
