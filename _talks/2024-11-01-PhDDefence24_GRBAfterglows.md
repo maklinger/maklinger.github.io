@@ -1,5 +1,5 @@
 ---
-title: "Time-dependent Modelling of Gamma-Ray Burst Afterglows"
+title: "PhD Defence: Time-dependent Modelling of Gamma-Ray Burst Afterglows"
 collection: talks
 type: "PhD Defence Talk"
 permalink: /talks/PhDDefence24_GRBAfterglows
