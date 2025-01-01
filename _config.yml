@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marc Klinger"
+title                    : "Marc Klinger-Plaisier"
 title_separator          : "-"
-name                     : &name "Marc Klinger"
-description              : &description "Finishing PhD student at DESY Zeuthen"
+name                     : &name "Marc Klinger-Plaisier"
+description              : &description "Postoctoral Researcher at the University of Amsterdam"
 url                      : https://maklinger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maklinger.github.io"
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marc Klinger"
-  avatar           : "profile_Marc.jpg"
-  bio              : "Finishing PhD student with Walter Winter and Andrew Taylor. Focus on high-energy astrophysics, in particular GRB afterglows."
-  location         : "DESY Zeuthen, Germany"
+  name             : "Marc Klinger-Plaisier"
+  avatar           : "profile_Marc2.jpg"
+  bio              : "Postdoctoral researcher within API/UvA Amsterdam. Focus on high-energy astrophysics, in particular around black holes and in GRB afterglows."
+  location         : "University of Amsterdam, Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "marc.klinger@desy.de"
+  email            : "m.klinger@uva.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

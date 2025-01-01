@@ -9,10 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://maklinger.github.io/files/CV-Marc_Klinger_01-2024.pdf" style="color: #9e0606; text-decoration: underline;font-size:150%;"><b>PDF with short CV</b></a>
+<a href="https://maklinger.github.io/files/CV-Marc_Klinger_01-2025.pdf" style="color: #9e0606; text-decoration: underline;font-size:150%;"><b>PDF with short CV (Jan. 2025)</b></a>
 # Education
 
-## **From 01/2020: PhD in Theoretical Astroparticle Physics**
+
+## **From 10/2024: Postdoctoral Researcher in Theoretical Astroparticle Physics**
+
+[Anton Pannekoek Insitute/University of Amsterdam](https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html) <br>
+Focus: Improved Multi-messenger Modelling in GRMHD simulations<br>
+*Advisors: Sera Markoff*
+
+
+## 2020-2024: PhD in Theoretical Astroparticle Physics
 
 [DESY Zeuthen](https://astroparticle-physics.desy.de/about_us/group_members/theory/index_eng.html) within [Helmholtz Weizmann Research School on Multimessenger Astronomy](https://www.multimessenger-school.de/) <br>
 Focus: Time-Dependent Radiation Modeling of Gamma-Ray Burst Afterglows<br>
