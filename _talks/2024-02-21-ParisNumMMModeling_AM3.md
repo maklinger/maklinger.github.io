@@ -8,6 +8,6 @@ date: 2024-02-21
 location: "Paris, France"
 ---
 
-[Link to slides](https://maklinger.github.io/files/presentations/ParisNumMMModeling_AM3.pdf).
+[Link to slides](https://maklinger.github.io/files/presentations/ParisNumMMModeling24_AM3_Klinger.pdf).
 
 

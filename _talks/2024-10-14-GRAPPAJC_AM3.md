@@ -8,4 +8,4 @@ date: 2024-10-14
 location: "Amsterdam, The Netherlands"
 ---
 
-[Link to slides](https://maklinger.github.io/files/presentations/GRAPPAJC_AM3_Klinger.pdf).
+[Link to slides](https://maklinger.github.io/files/presentations/GRAPPAJC24_AM3_Klinger.pdf).
