@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://maklinger.github.io/files/CV-Marc_Klinger_03-2025.pdf" style="color: #9e0606; text-decoration: underline;font-size:150%;"><b>PDF with CV (Feb. 2025)</b></a>
+<a href="https://maklinger.github.io/files/CV-Marc_Klinger_03-2025.pdf" style="color: #9e0606; text-decoration: underline;font-size:150%;"><b>PDF with CV (Mar. 2025)</b></a>
 # Education
 
 
